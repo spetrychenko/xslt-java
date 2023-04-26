@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Journal>
+    <Student>
+        <FirstName>  volodymyr </FirstName>
+        <LastName> muzhniy </LastName>
+    </Student>
+    <Student>
+        <FirstName>  solomiia </FirstName>
+        <LastName> kazka </LastName>
+    </Student>
+</Journal>
